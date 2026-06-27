@@ -26,7 +26,6 @@ Machine-Learning-Projects/
 ├── Classification.ipynb
 ├── train_selected.csv
 ├── test_selected.csv
-├── requirements.txt
 └── README.md
 ```
 
